@@ -12,6 +12,8 @@ favicon: /-/malaysri.github.io/aboutpage/favicon.ico
 -- fastn.auto-import: doc-site
 
 -- fastn.sitemap:
+-- fastn.dependencies:
+
 
 # Home: index.html
 
