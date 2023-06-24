@@ -5,7 +5,7 @@ width: fill-container
 height: fill-container
 align-content: center
 types: $opensans.types
-background.image: $bg-image
+background.image: https://t3.ftcdn.net/jpg/02/38/16/94/360_F_238169477_Daonex5XsbOWLdcL0x8IcQ91RCJGubDy.jpg
 
 -- ftd.column:
 width.fixed.px: 832
@@ -14,7 +14,7 @@ align-content: center
 
 
 -- player: Malay Srivastava
-dp: $assets.files.assets/pic.jpeg.jfif
+dp: https://media.licdn.com/dms/image/D4D03AQFCLO6LKtD9IA/profile-displayphoto-shrink_400_400/0/1677148585283?e=1692835200&v=beta&t=2w7Ejc7GWtaG8UMDkuwl9NrhFDaUnnTLJf5r4N6hJ3U
 
 I am Sudent at SRMCEM.
 
@@ -24,13 +24,15 @@ margin-top.px: 60
 width: fill-container
 
 -- button: LinkedIn
-link: https://www.linkedin.com/in/ajit-garg-319167190/
+link: https://www.linkedin.com/in/malay-srivastava-423090141/
 
 -- button: Instagram
+link: https://www.instagram.com/__b_o_t_u___/
 
 -- button: Facebook
 
 -- button: Twitter
+link: https://twitter.com/malay_bo2
 
 
 
@@ -59,10 +61,10 @@ padding-bottom.px: 10
 align-content: center
 
 -- ftd.image: $player.dp
-width.fixed.px: 118 
+width.fixed.px: 125 
 height.fixed.px: 118
 border-radius.px: 60
-margin-bottom.px: 20
+margin-bottom.px: 30
 border-color: $player.border-color
 border-width.px: 5
 
@@ -88,21 +90,21 @@ color: white
 caption title:
 optional string link:
 ftd.color text-color: $inherited.colors.text-strong
-ftd.color border-color: white
+ftd.color border-color: Pink
 
 -- ftd.row:
 align-content: center
 width: fill-container
-border-radius.px: 40
-height.fixed.px: 82
-border-width.px: 2
-background.solid: white
+border-radius.px: 50
+height.fixed.px: 83
+border-width.px: 3
+background.solid: purple
 border-color: $button.border-color
 
 
 -- ftd.text: $button.title
 link: $button.link
-padding.px: 10
+padding.px: 12
 style: bold
 text-align: center
 color: $button.text-color
